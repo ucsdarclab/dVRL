@@ -1,4 +1,4 @@
-# RL Environments for the da Vinvi Surgical System
+# RL Environments for the da Vinci Surgical System
 
 Arxiv paper: https://arxiv.org/abs/1903.02090
 
